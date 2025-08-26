@@ -1,5 +1,7 @@
 # askonev
 
+
+```json
 {
   "job": "AQA engineer",
   "birthday": "1994-07-19",
@@ -8,6 +10,7 @@
   "stack": ["Javascript", "Python", "Ruby", "Docker", "AWS", "..."],
   "interest": ["Tech", "Plaing music", "Hiking", "..."]
 }
+```
 
 <picture>
   <source
