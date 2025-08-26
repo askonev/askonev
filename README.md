@@ -1,5 +1,4 @@
-# askonev
-
+# askonev [Maksim Sorokin]
 
 ```json
 {
@@ -8,7 +7,7 @@
   "country": "Russian",
   "city": "Nisniy Novgorod",
   "stack": ["Javascript", "Python", "Ruby", "Docker", "AWS", "..."],
-  "interest": ["Tech", "Plaing music", "Hiking", "..."]
+  "interest": ["Tech", "Playing music", "Hiking", "..."]
 }
 ```
 
